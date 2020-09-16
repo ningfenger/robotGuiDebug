@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/media/SSD2/ningfeng/newhome/rm2020/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
